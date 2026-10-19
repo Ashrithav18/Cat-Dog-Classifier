@@ -1,0 +1,9 @@
+
+1.streamlit
+2.tensorflow
+3.numpy
+4.Pillow
+5.scikit-learn
+6.matplotlib
+7.transformers
+8.torch
