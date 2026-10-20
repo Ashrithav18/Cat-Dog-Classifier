@@ -325,11 +325,11 @@ if uploaded_files:
                 )
 
                 with image_col:
-                    st.image(
-                        image,
-                        caption="Uploaded image",
-                        use_container_width=True
-                    )
+                   st.image(
+                       image,
+                       caption="Uploaded image",
+                       width="stretch"
+                       )
 
                 with result_col:
                     with st.spinner("Checking image content..."):
